@@ -1,0 +1,38 @@
+html {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ff9720;
+  }
+  
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    color: #004f55;
+    text-shadow: 5px 5px 5px #ff9720;
+  }
+
+  h2{
+    font-size: 40px;
+    color: #ff9720;
+  }
+
+  #img-resau {
+    display: block;
+    margin: 0 auto;  
+    width: 1300px;
+    height: 650px;
+  }
+  
+  body {
+    width: 1800px;
+    margin: 0 auto;
+    background-color: #00F8FF;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  
+  p, li {
+    font-size: 21px;
+    line-height: 2;
+    color: #002022;
+  }
